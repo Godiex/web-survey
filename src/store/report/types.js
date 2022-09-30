@@ -1,0 +1,1 @@
+export const SET_DATA_REPORT = "[REPORT_TYPES] SET_DATA_REPORT";

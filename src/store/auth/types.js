@@ -1,0 +1,7 @@
+export const SET_USER_DATA = "[USER] SET_DATA";
+export const RESET_USER_DATA = "[USER] RESET_USER_DATA";
+export const AUTH_USER = "[AUTH] AUTH_USER";
+export const LOGOUT_USER = "[AUTH] LOGOUT_USER";
+export const CHANGE_REFRESH = "[AUTH] CHANGE_REFRESH";
+export const SET_WAIT_AUTH_CHECK = "[AUTH] SET_WAIT_AUTH_CHECK";
+export const SET_PERMISSIONS = "[AUTH] SET_PERMISSIONS";
